@@ -2,7 +2,7 @@ import "./App.css";
 import { useState } from "react";
 import wordList from "./wordList.json"
 import { HangmanDrawing } from "./HangmanDrawing";
-import { HangmanWord } from "./Hangmanword";
+import { HangmanWord } from "./HangmanWord";
 import { Keyboard } from "./Keyboard";
 
 
